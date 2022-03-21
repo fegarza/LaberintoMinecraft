@@ -27,3 +27,18 @@ C:\Users\Felipe Garza\Downloads\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.C
 C:\Users\Felipe Garza\Downloads\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.CopyComplete
 C:\Users\Felipe Garza\Downloads\Laberinto\Laberinto\obj\Debug\Laberinto.exe
 C:\Users\Felipe Garza\Downloads\Laberinto\Laberinto\obj\Debug\Laberinto.pdb
+C:\Proyectos\LaberintoMinecraft\Laberinto\bin\Debug\Laberinto.exe.config
+C:\Proyectos\LaberintoMinecraft\Laberinto\bin\Debug\Laberinto.exe
+C:\Proyectos\LaberintoMinecraft\Laberinto\bin\Debug\Laberinto.pdb
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.csproj.AssemblyReference.cache
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Interop.WMPLib.dll
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.csproj.ResolveComReference.cache
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.died.resources
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.Form1.resources
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.Properties.Resources.resources
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.csproj.GenerateResource.cache
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.csproj.CoreCompileInputs.cache
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.csproj.CopyComplete
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.exe
+C:\Proyectos\LaberintoMinecraft\Laberinto\obj\Debug\Laberinto.pdb
